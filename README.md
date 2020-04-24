@@ -1,2 +1,1 @@
-# Website to get the data: shorturl.at/hjoCN
-# Dataset used: shorturl.at/bdekv
+# Website to get the data: https://covid19br.wcota.me/
